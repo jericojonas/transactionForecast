@@ -33,10 +33,12 @@ python -m streamlit run app.py
 ````
 
 ## Data Format Example
-tanggal	jumlah_transaksi
-2023-01-01	1,000
-2023-01-02	1,200
-...	...
+| tanggal    | jumlah\_transaksi |
+| ---------- | ----------------- |
+| 2023-01-01 | 1,000             |
+| 2023-01-02 | 1,200             |
+| ...        | ...               |
+
 
 ## Technologies Used
 Streamlit – interactive web app framework
